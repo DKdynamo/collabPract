@@ -1,2 +1,4 @@
 print("Hello World")
-print("Hello from student)
+
+print("Hello from PROFESSOR AND student)
+
